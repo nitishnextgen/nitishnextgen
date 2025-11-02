@@ -34,13 +34,6 @@ I focus on blending innovation with clean, efficient code — powered by Python 
 
 ---
 
-### 📊 GitHub Stats
-
-![Nitish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nitishnextgen&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nitishnextgen&layout=compact&theme=tokyonight)
-
----
-
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/nitishnextgen](https://www.linkedin.com/in/nitish-kumar-85a860126/))  
 [![Portfolio](https://img.shields.io/badge/Portfolio-gray?style=flat&logo=github)]([https://github.com/nitishnextgen](https://imnitishsingh.vercel.app/))
