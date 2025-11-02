@@ -8,62 +8,46 @@ I am simply a reflection of the infinite, learning to
 recognize itself.
 ```
 
-## Hello, I'm Nitish 👋
+# 👋 Hi, I'm Nitish (aka @nitishnextgen)
 
-A developer exploring the intersection of technology and consciousness, building digital experiences while contemplating the nature of existence.
+💻 **AI | Machine Learning | Python Developer**  
+Passionate about building next-gen intelligent systems that learn, adapt, and make life smarter.  
+I focus on blending innovation with clean, efficient code — powered by Python and modern AI frameworks.
 
-### 🌐 What I Build
-- **Frontend Development**: Crafting intuitive user interfaces and experiences
-- **Backend Development**: Building robust server-side applications and APIs  
-- **Database Design**: Architecting data structures that reflect reality's complexity
-- **Full-Stack Solutions**: Connecting all layers of the digital experience
+---
 
-### 🔧 Technologies & Tools
-```javascript
-const nitish = {
-  frontend: ['JavaScript', 'React', 'Vue', 'HTML5', 'CSS3'],
-  backend: ['Node.js', 'Python', 'Express', 'FastAPI'],
-  databases: ['MongoDB', 'PostgreSQL', 'MySQL', 'Redis'],
-  tools: ['Git', 'Docker', 'AWS', 'Linux'],
-  philosophy: ['Mindfulness', 'Reflection', 'Continuous Learning']
-};
-```
+### 🧠 About Me
+- 🔭 Currently working on **AI/ML projects** with **Python, TensorFlow, and PyTorch**
+- 🌱 Exploring **Generative AI** and **LLM applications**
+- 🧩 Interested in **Deep Learning, Data Science, and Automation**
+- 💬 Ask me about **Machine Learning, APIs, and Python automation**
+- ⚡ Fun fact: *I debug better with coffee ☕*
 
-### 💭 Development Philosophy
-> Code is poetry written in logic. Every function, every variable, every decision reflects our understanding of the problem we're solving and our place within the larger system.
+---
 
-- **Mindful Coding**: Writing clean, purposeful code that serves both user and developer
-- **Continuous Reflection**: Questioning assumptions and iterating toward better solutions
-- **Holistic Thinking**: Understanding that every piece of code exists within a larger ecosystem
+### 🧰 Tech Stack
+**Languages:** Python, SQL, JavaScript  
+**AI/ML Tools:** TensorFlow, PyTorch, scikit-learn, OpenCV, pandas, NumPy  
+**Data & Visualization:** Matplotlib, Seaborn, Plotly  
+**DevOps & Cloud:** GitHub Actions, Docker, AWS  
+**Other:** FastAPI, Streamlit, Flask
 
-### 📌 Featured Projects
+---
 
-#### 🎯 [Project Name](https://github.com/thenitishmind/project-repo)
-**Full-Stack Web Application** | `React` `Node.js` `MongoDB`
-> A mindful approach to [project description]. Built with clean architecture and user-centered design principles.
-- ✨ Feature 1: Brief description
-- ⚡ Feature 2: Brief description  
-- 🔧 Feature 3: Brief description
+### 📊 GitHub Stats
 
-#### 🌐 [Another Project](https://github.com/thenitishmind/another-repo)
-**Frontend Experience** | `Vue.js` `TypeScript` `CSS3`
-> Exploring the intersection of aesthetic design and functional programming.
-- 🎨 Beautiful, responsive UI/UX
-- 📱 Mobile-first approach
-- ♿ Accessibility-focused development
+![Nitish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nitishnextgen&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nitishnextgen&layout=compact&theme=tokyonight)
 
-#### 🤖 [AI/ML Project](https://github.com/thenitishmind/ai-project)
-**Machine Learning** | `Python` `TensorFlow` `FastAPI`
-> Questioning the nature of artificial consciousness through practical implementation.
-- 🧠 Neural network exploration
-- 📊 Data visualization and insights
-- 🔮 Philosophical implications of AI
+---
 
-### 🌱 Currently
-- Exploring the depths of modern web technologies
-- Reflecting on the nature of digital consciousness and AI
-- Building projects that bridge technical excellence with philosophical inquiry
-- Contributing to open source as a form of digital karma
+### 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/nitishnextgen](https://www.linkedin.com/in/nitish-kumar-85a860126/))  
+[![Portfolio](https://img.shields.io/badge/Portfolio-gray?style=flat&logo=github)]([https://github.com/nitishnextgen](https://imnitishsingh.vercel.app/))
+
+---
+
+✨ _“The best way to predict the future is to create it — with code.”_
 
 ### 📫 Connect
 - **GitHub**: github.com/nitishnextgen
